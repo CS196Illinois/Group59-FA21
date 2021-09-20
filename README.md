@@ -6,3 +6,5 @@ Group Name: Group 59
 Team Members: dzan2, omotoso2, dvjalan2, ajtaub2, aarthib2
 
 Project Manager: vedantj2
+
+A web console that helps visualize the processes behind some basic ML models such as linear regression, SVM, and Naïve bayes classifier.
